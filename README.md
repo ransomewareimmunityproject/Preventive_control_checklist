@@ -104,3 +104,12 @@ disable UAC Auto Approved COM objects
 
 
 make UAC always notify
+
+Scan Archive files
+Scan removeable devices
+Scan emails
+Block at First Sight feature
+Configure local setting override for reporting to Microsoft MAPS
+Join Microsoft Maps
+send file samples when further analysis is required
+Enable PUA Settings
